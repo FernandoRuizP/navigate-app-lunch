@@ -1,3 +1,3 @@
-Lunch Tray Practice Problem - Solution Code
-==================================
+Lunch Tray Practice Problem
+
 
